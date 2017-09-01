@@ -70,7 +70,7 @@ slider.helpclick = function(msg){
             var _picture = slider.imageURL;
             if (_picture !== undefined) {
                 if (_picture === "demo.png") {
-                    _picture = "https://pulipulichen.github.io/HTML5-Client-side-Image-puzzle/demo.png";
+                    _picture = "https://pulipulichen.github.io/Sliding-Puzzle/demo.png";
                 }
                 
                 _picture = encodeURIComponent(_picture);
