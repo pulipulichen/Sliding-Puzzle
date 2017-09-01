@@ -170,5 +170,5 @@
 
 	
 	s.v.Drag = Drag;
-	
+	 
 })(window,slider);

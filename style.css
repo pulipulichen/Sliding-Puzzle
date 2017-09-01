@@ -146,3 +146,8 @@
 .at-share-btn-elements {
     text-align: center;
 }
+
+.stop-scrolling {
+  max-height: 100vh !important;
+  overflow: hidden;
+}
